@@ -1,5 +1,8 @@
 ### OLÁ!! 👋
 ## Meu nome é Amanda Marry Xerfan Lima
+<p>Aluna de Desenvolvimento Fullstack Javascript e Phyton, pela DigitalCollege e OnebiteCode</p>
+<p>Tenho interesse pelo Desenvolvimento Mobile e de Jogos, pretendendo me especializar nas duas áreas. 🔭</p>
+<p>Meu sonho é trabalhar de qualquer lugar do mundo, ser nômade digital pra alimentar minha alma viajante, livre e programadora 😄</p>
 
 <!--
 **xerfanm/xerfanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
